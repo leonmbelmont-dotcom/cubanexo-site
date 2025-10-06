@@ -1,0 +1,17 @@
+[
+ {
+   "titulo": "Economía básica",
+   "descripcion": "Conceptos esenciales para entender el funcionamiento económico en Cuba.",
+   "archivo": "docs/economia.md"
+ },
+ {
+   "titulo": "Logística local",
+   "descripcion": "Como moverse, comprar, vender y distribuir productos en el contexto cubano.",
+   "archivo": "docs/logistica.md"
+ },
+  {
+   "titulo": "Aspectos legales",
+   "descripcion": "Normas, permisos y consideraciones legales para emprender con responsabilidad.",
+   "archivo": "docs/legal.md"
+ }
+]
